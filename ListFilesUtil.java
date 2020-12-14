@@ -1,14 +1,5 @@
-
-
 import java.io.File;
 
-/**
- * Contains some methods to list files and folders from a directory
- *
- * @author Loiane Groner
- * http://loiane.com (Portuguese)
- * http://loianegroner.com (English)
- */
 public class ListFilesUtil {
 public static void main (String[] args){
 
